@@ -1,0 +1,101 @@
+.cabecalho{
+  background-color: #006557;
+  display: flex;
+}
+
+.button {
+  border: none;
+  background-color: #006557;
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 25px;
+  margin: 1px;
+  cursor: pointer;
+}
+  
+
+.titulo {
+  background-color: #006557;
+  color: rgba(255, 255, 255, 0.89);
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  padding: 10px;
+  padding-left: 130px;
+}
+
+.texto1 {
+  margin: 20px;
+  font-size: 18px;
+}
+
+.texto2 {
+  margin: 20px;
+  margin-left: 25px;
+  font-size: 18px;
+}
+
+.entradaDeDadosNome{
+  width: 90%;
+  margin-left: 25px;
+  box-sizing: border-box;
+  border: 2px solid white;
+  border-radius: 2px;
+  font-size: 18px;
+  background-color: white;
+  background-repeat: no-repeat;
+  padding: 10px 15px 10px 15px;
+}
+
+.entradaDeDados{
+  width: 100%;
+  border: none;
+  box-sizing: border-box;
+  border-radius: 2px;
+  font-size: 18px;
+  background-color: white;
+  background-repeat: no-repeat;
+  padding: 10px 15px 10px 15px;
+}
+
+.buttonContinuar{
+  width: 300px;
+  border: none;
+  font-size: 18px;
+  border-radius: 4px;
+  background-color: #07689f;
+  color:white;
+  margin-top: 25px;
+  margin-left: 90px;
+  padding: 10px 15px 10px 15px;
+}
+
+.buttonVoltar{
+  text-align: center;
+  width: 300px;
+  border: none;
+  color: #07689f;
+  font-size: 18px;
+  margin-top: 20px;
+  margin-left: 90px;
+}
+
+.horario{
+  box-sizing: border-box;
+  border: 2px solid white;
+  border-radius: 2px;
+}
+
+.tabela {
+  padding-top: 130px;
+  text-align: center;
+  font-size: 14px;
+  align-items: center;
+  margin: 10px;
+}
+
+
+.coluna {
+  width: 114px;
+}
